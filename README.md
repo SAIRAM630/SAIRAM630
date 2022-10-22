@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAIRAM630
+- 👋 Hi, I’m @SAIRAM
 - 👀 I’m interested in data science!
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
